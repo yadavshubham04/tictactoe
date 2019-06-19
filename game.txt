@@ -6,3 +6,4 @@
 2,0 o shubham
 2,1 X aditya
 1,1 o shubham
+1,2 X aditya
