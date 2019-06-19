@@ -1,8 +1,9 @@
 0,0 X aditya
 2,2 o shubham
-0,2 X aditya move
-0,1 o shubham move
-1,0 X aditya move
+0,2 X aditya changed
+0,1 o shubham changed 
+1,0 X aditya changed
 2,0 o shubham
 2,1 X aditya
 1,1 o shubham
+1,2 X aditya
